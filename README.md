@@ -1,0 +1,2 @@
+# strapi
+Personal Art Page
